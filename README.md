@@ -1,2 +1,2 @@
 Ansible role for Sensu
-Test
+Test format
